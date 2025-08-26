@@ -8,7 +8,7 @@ Si tienes alguna duda, no dudes en contactarme a través del correo [jaleonhardt
 
 | Fecha | Instancia | Tema | Plataforma | Link |
 |:------|:----------|:-----|:-----------|:-----|
-| 25/08 | Laboratorio 1 | Introducción a los Sistemas de Información Geográfica | YouTube | — |
+| 25/08 | Laboratorio 1 | Introducción a los Sistemas de Información Geográfica | YouTube | https://youtu.be/ukO95-0JFlQ |
 | 01/09 | Laboratorio 2 | Análisis y Manipulación de Datos Geoespaciales con GeoPandas | YouTube | — |
 | 08/09 | Laboratorio 3 | Cálculo de Accesibilidades Gravitacionales | YouTube | — |
 | 22/09 | Laboratorio 4 | Estimación de Modelos Bid y Choice de Localización | YouTube | — |
