@@ -2,6 +2,8 @@
 
 Este repositorio contiene los materiales necesarios para realizar los laboratorios del curso de Economía y Modelos de Localización Urbana [ICT 3933]. Aquí encontrarás los enlaces a las grabaciones de cada laboratorio, que se publicarán todos los lunes siguiendo la planificación adjunta. Las presentaciones de avance y finales se realizarán de manera presencial en las fechas indicadas en el calendario.
 
+La base de datos **`catastro.geojson`**, que contiene la información de todas las comunas asignadas al proyecto semestral (líneas de construcción del Servicio de Impuestos Internos en celdas h3 de resolución 11), está disponible en el siguiente enlace: https://drive.google.com/drive/folders/1C8E5Dt-ol-C1578up6g4Fh9Z5cjRomiG?usp=share_link.
+
 Si tienen alguna pregunta, no duden en contactarme a través del correo [jaleonhardt@uc.cl](mailto:jaleonhardt@uc.cl).
 
 ## Laboratorios y Sesiones 2025
